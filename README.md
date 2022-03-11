@@ -1,6 +1,10 @@
 # EDA project looks at senior pet intakes and outcomes at the Austin Animal Center.
 
-# Brief conclusions:
-1) The majority of senior cats and dogs at the Austin Animal Center have a good outcome, i.e: either being returned to owner, adopted or transferred. 
-2) The ones staying at the shelter at the time of the analysis have not been there for too long. 
-3) However, there is evidence that it takes longer time for these senior animals to be adopted compared to younger animals at the shelter.
+## General outline of the files in this repo:
+1) raw_intakes.csv: the animal intakes data downloaded on 03/10/2022 from https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Intakes/wter-evkm.
+2) raw_outcomes.csv: the animal outcomes data downloaded on 03/10/2022 from https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238.
+3) senior_shelter_animals.ipynb: Python codes and output.
+
+## The goals of this project:
+1) To practice the EDA skills I have learned in Python.
+2) To add an advocating voice to adoptions of senior pets.
